@@ -4,7 +4,7 @@
 	[carts.plow]
 		#Base speed modifier applied to animals (-0.5 = half normal speed)
 		#Range: -1.0 ~ -0.1
-		pull_speed = -0.1
+		pull_speed = 0.0
 		#Slow speed modifier toggled by the sprint key
 		#Range: -1.0 ~ 0.0
 		slow_speed = -0.65
@@ -15,7 +15,7 @@
 	[carts.handCart]
 		#Base speed modifier applied to animals (-0.5 = half normal speed)
 		#Range: -1.0 ~ -0.1
-		pull_speed = -0.1
+		pull_speed = 0.0
 		#Slow speed modifier toggled by the sprint key
 		#Range: -1.0 ~ 0.0
 		slow_speed = -0.65
@@ -26,7 +26,7 @@
 	[carts.supply_cart]
 		#Base speed modifier applied to animals (-0.5 = half normal speed)
 		#Range: -1.0 ~ -0.1
-		pull_speed = -0.1
+		pull_speed = 0.0
 		#Slow speed modifier toggled by the sprint key
 		#Range: -1.0 ~ 0.0
 		slow_speed = -0.65
@@ -37,7 +37,7 @@
 	[carts.animal_cart]
 		#Base speed modifier applied to animals (-0.5 = half normal speed)
 		#Range: -1.0 ~ -0.1
-		pull_speed = -0.1
+		pull_speed = 0.0
 		#Slow speed modifier toggled by the sprint key
 		#Range: -1.0 ~ 0.0
 		slow_speed = -0.65

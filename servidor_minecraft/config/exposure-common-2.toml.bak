@@ -1,8 +1,3 @@
-[Misc]
-	#Generate items in loot chests. Default: true
-	AddItemsToLootChests = true
-	#Film rolls can be renamed by using the item. Default: true
-	FilmRollRenaming = true
 [Camera]
 	#Right-clicking Camera in GUI will open Camera attachments screen. Only in player inventory.
 	#Default: true
@@ -41,6 +36,11 @@
 	#Larger numbers may cause errors. Use at your own risk.
 	#Range: 2 ~ 64
 	StackedPhotographsMaxSize = 16
+[Misc]
+	#Generate items in loot chests. Default: true
+	AddItemsToLootChests = true
+	#Film rolls can be renamed by using the item. Default: true
+	FilmRollRenaming = true
 [Integration]
 	[Integration.Create]
 		[Integration.Create.SequencedSpoutFilmDeveloping]
