@@ -526,6 +526,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/cyan_terracotta_slab": {
+    "criteria": {
+      "has_cyan_terracotta": "2024-12-05 21:16:26 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/food/cake": {
     "criteria": {
       "has_the_recipe": "2024-12-05 21:02:00 +0000"
@@ -628,6 +634,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-05 21:20:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2024-12-05 20:44:38 +0000"
@@ -700,6 +712,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2024-12-05 21:16:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-05 20:49:31 +0000"
@@ -745,6 +763,12 @@
   "another_furniture:recipes/dark_oak_shelf": {
     "criteria": {
       "has_planks": "2024-12-05 20:49:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-05 21:20:14 +0000"
     },
     "done": true
   },
@@ -868,6 +892,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-05 21:19:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-05 20:49:31 +0000"
@@ -922,6 +952,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-05 21:19:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-05 21:01:59 +0000"
@@ -943,6 +979,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-05 20:49:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-12-05 21:15:29 +0000"
     },
     "done": true
   },
@@ -1159,6 +1201,24 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-12-05 21:01:59 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-12-05 21:23:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-05 21:19:18 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2024-12-05 21:16:27 +0000"
     },
     "done": true
   },
