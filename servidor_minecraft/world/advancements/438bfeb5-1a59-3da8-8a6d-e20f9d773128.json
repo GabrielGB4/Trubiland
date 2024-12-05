@@ -88,6 +88,7 @@
       "minecraft:sunflower_plains": "2024-12-04 21:53:31 +0000",
       "minecraft:beach": "2024-12-05 20:48:56 +0000",
       "minecraft:river": "2024-12-05 20:55:13 +0000",
+      "minecraft:dripstone_caves": "2024-12-05 22:34:44 +0000",
       "minecraft:forest": "2024-12-05 20:49:17 +0000",
       "minecraft:lush_caves": "2024-12-05 21:04:14 +0000",
       "minecraft:plains": "2024-12-04 21:24:21 +0000"
@@ -274,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-05 22:36:23 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/oak_drawer": {
     "criteria": {
       "has_planks": "2024-12-05 20:46:14 +0000"
@@ -337,6 +344,12 @@
   "another_furniture:recipes/oak_chair": {
     "criteria": {
       "has_planks": "2024-12-05 20:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2024-12-05 22:35:51 +0000"
     },
     "done": true
   },
@@ -444,6 +457,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-05 22:34:31 +0000",
       "minecraft:husk": "2024-12-05 21:24:02 +0000",
       "minecraft:zombie": "2024-12-05 20:53:53 +0000"
     },
@@ -650,6 +664,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-05 20:49:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2024-12-05 22:34:31 +0000"
     },
     "done": true
   },
@@ -1247,6 +1267,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/packed_ice_slab": {
+    "criteria": {
+      "has_packed_ice": "2024-12-05 22:32:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2024-12-05 20:49:37 +0000"
@@ -1262,6 +1288,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2024-12-05 21:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-05 22:31:08 +0000"
     },
     "done": true
   },
@@ -1295,6 +1327,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/white_terracotta_slab": {
+    "criteria": {
+      "has_white_terracotta": "2024-12-05 22:35:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-12-05 20:49:42 +0000"
@@ -1316,6 +1354,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-05 20:46:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2024-12-05 22:32:34 +0000"
     },
     "done": true
   },
@@ -1385,6 +1429,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2024-12-05 22:32:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-05 20:49:37 +0000"
@@ -1436,6 +1486,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2024-12-05 21:04:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2024-12-05 22:32:21 +0000"
     },
     "done": true
   },
@@ -1517,6 +1573,12 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2024-12-05 22:32:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2024-12-05 20:57:51 +0000"
@@ -1526,6 +1588,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-05 20:47:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2024-12-05 22:31:08 +0000"
     },
     "done": true
   },
