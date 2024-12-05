@@ -1016,3 +1016,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21:59:12] [Server thread/INFO]: chat.type.text
 [21:59:19] [Server thread/INFO]: chat.type.text
 [21:59:49] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.leatherworker'/39409, l='ServerLevel[world]', x=-840.17, y=67.50, z=-721.26] died, message: 'death.attack.cactus'
+[22:00:12] [Server thread/INFO]: chat.type.admin
+[22:00:23] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.farmer'/39477, l='ServerLevel[world]', x=-839.08, y=67.50, z=-719.90] died, message: 'death.attack.cactus'
+[22:00:23] [Server thread/INFO]: chat.type.text
+[22:00:36] [Server thread/INFO]: chat.type.text
+[22:00:41] [Server thread/INFO]: chat.type.text
+[22:00:47] [Server thread/INFO]: chat.type.text
+[22:00:53] [Server thread/INFO]: chat.type.text
+[22:00:54] [Server thread/INFO]: chat.type.text
+[22:01:15] [Server thread/INFO]: minecraft:skeleton
+[22:01:52] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.cleric'/39410, l='ServerLevel[world]', x=-877.19, y=67.50, z=-671.43] died, message: 'death.attack.cactus'
+[22:06:16] [Server thread/INFO]: chat.type.text
+[22:06:44] [Server thread/INFO]: chat.type.text
+[22:07:11] [Server thread/INFO]: minecraft:squid

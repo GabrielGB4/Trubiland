@@ -1445,6 +1445,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/ladder_slab": {
+    "criteria": {
+      "has_ladder": "2024-12-05 22:01:47 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/mangrove_drawer": {
     "criteria": {
       "has_planks": "2024-12-05 20:46:14 +0000"
