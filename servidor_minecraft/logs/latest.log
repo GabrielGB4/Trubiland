@@ -852,3 +852,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20:47:00] [Server thread/INFO]: chat.type.advancement.task
 [20:47:42] [Worker-Main-3/WARN]: Empty height range: [0 absolute--16 absolute]
 [20:48:18] [Worker-Main-8/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:49:28] [Server thread/INFO]: chat.type.advancement.task
+[20:49:29] [Server thread/INFO]: chat.type.advancement.task
+[20:49:31] [Server thread/INFO]: chat.type.advancement.task
+[20:49:37] [Server thread/INFO]: chat.type.advancement.task
+[20:49:52] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:51:01] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2338{x=388, y=-28, z=-334}
+[20:51:01] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2338{x=384, y=-28, z=-334}
+[20:51:07] [Worker-Main-8/WARN]: Tried to access a block entity before it was created. class_2338{x=382, y=-28, z=-342}
+[20:51:58] [Server thread/INFO]: minecraft:husk
+[20:53:53] [Server thread/INFO]: chat.type.advancement.task
+[20:54:06] [Server thread/INFO]: death.attack.arrow
+[20:54:06] [Server thread/INFO]: chat.type.admin
+[20:54:08] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Trubite24 accepted server config.
+[20:54:12] [Server thread/INFO]: death.attack.arrow
+[20:54:12] [Server thread/INFO]: chat.type.admin
+[20:54:13] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Robert_Rum2 accepted server config.
+[20:57:33] [Server thread/INFO]: minecraft:husk
