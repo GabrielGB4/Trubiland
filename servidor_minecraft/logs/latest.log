@@ -1029,3 +1029,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22:06:16] [Server thread/INFO]: chat.type.text
 [22:06:44] [Server thread/INFO]: chat.type.text
 [22:07:11] [Server thread/INFO]: minecraft:squid
+[22:11:22] [Server thread/INFO]: chat.type.text
+[22:11:26] [Server thread/INFO]: chat.type.text
+[22:12:08] [Server thread/INFO]: chat.type.text
+[22:13:16] [Server thread/INFO]: chat.type.text
+[22:15:17] [Server thread/INFO]: chat.type.text
+[22:17:44] [Server thread/INFO]: chat.type.text
