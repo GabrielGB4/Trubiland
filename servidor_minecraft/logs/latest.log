@@ -1071,3 +1071,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22:56:30] [Server thread/INFO]: chat.type.text
 [22:58:16] [Server thread/INFO]: chat.type.text
 [22:58:49] [Server thread/INFO]: chat.type.text
+[23:01:37] [Server thread/INFO]: chat.type.text
+[23:01:48] [Server thread/INFO]: chat.type.text
+[23:02:02] [Server thread/INFO]: chat.type.text
+[23:02:21] [Server thread/INFO]: chat.type.text
+[23:02:29] [Server thread/INFO]: chat.type.text
+[23:02:32] [Server thread/INFO]: chat.type.text
+[23:02:49] [Server thread/INFO]: chat.type.text
+[23:05:30] [Server thread/INFO]: chat.type.text
+[23:05:38] [Server thread/INFO]: chat.type.text
+[23:06:56] [Server thread/INFO]: Robert_Rum2 lost connection: disconnect.timeout
+[23:06:56] [Server thread/INFO]: multiplayer.player.left
+[23:06:56] [Server thread/INFO]: [voicechat] Disconnecting client Robert_Rum2
