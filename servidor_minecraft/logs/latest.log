@@ -879,3 +879,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21:08:23] [Server thread/INFO]: death.attack.arrow
 [21:08:23] [Server thread/INFO]: chat.type.admin
 [21:08:25] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Robert_Rum2 accepted server config.
+[21:10:39] [Server thread/INFO]: minecraft:tropical_fish
+[21:10:56] [Server thread/INFO]: chat.type.advancement.task
+[21:16:40] [Worker-Main-3/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
