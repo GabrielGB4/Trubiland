@@ -869,3 +869,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20:54:12] [Server thread/INFO]: chat.type.admin
 [20:54:13] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Robert_Rum2 accepted server config.
 [20:57:33] [Server thread/INFO]: minecraft:husk
+[20:59:33] [Server thread/INFO]: minecraft:skeleton
+[20:59:34] [Server thread/INFO]: chat.type.text
+[21:00:10] [Server thread/INFO]: chat.type.advancement.task
+[21:00:35] [Server thread/INFO]: minecraft:glow_squid
+[21:00:54] [Server thread/INFO]: minecraft:glow_squid
+[21:04:39] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.mason'/10175, l='ServerLevel[world]', x=132.99, y=117.56, z=544.63] died, message: 'death.attack.cactus'
+[21:05:03] [Server thread/INFO]: chat.type.advancement.task
+[21:08:23] [Server thread/INFO]: death.attack.arrow
+[21:08:23] [Server thread/INFO]: chat.type.admin
+[21:08:25] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Robert_Rum2 accepted server config.
