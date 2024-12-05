@@ -1035,3 +1035,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22:13:16] [Server thread/INFO]: chat.type.text
 [22:15:17] [Server thread/INFO]: chat.type.text
 [22:17:44] [Server thread/INFO]: chat.type.text
+[22:22:44] [Server thread/INFO]: minecraft:husk
+[22:23:56] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.leatherworker'/39407, l='ServerLevel[world]', x=-840.23, y=67.50, z=-721.65] died, message: 'death.attack.cactus'
+[22:24:15] [Server thread/INFO]: iceandfire:pixie
+[22:24:33] [Server thread/INFO]: Villager class_1646['Beekeeper'/39408, l='ServerLevel[world]', x=-840.22, y=67.50, z=-721.89] died, message: 'death.attack.cactus'
+[22:27:55] [Server thread/INFO]: chat.type.text
+[22:28:18] [Server thread/INFO]: chat.type.text
+[22:28:36] [Server thread/INFO]: minecraft:zombie
+[22:28:50] [Server thread/INFO]: chat.type.text
+[22:29:02] [Server thread/INFO]: chat.type.text
+[22:29:08] [Server thread/INFO]: chat.type.text
