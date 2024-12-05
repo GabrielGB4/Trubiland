@@ -965,3 +965,54 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21:38:50] [Server thread/INFO]: chat.type.text
 [21:39:19] [Server thread/INFO]: chat.type.text
 [21:39:39] [Server thread/INFO]: minecraft:glow_squid
+[21:40:16] [Server thread/INFO]: minecraft:chicken
+[21:41:02] [Server thread/INFO]: minecraft:sheep
+[21:41:02] [Server thread/INFO]: chat.type.text
+[21:41:19] [Server thread/INFO]: chat.type.text
+[21:41:46] [Server thread/INFO]: death.attack.mob
+[21:41:46] [Server thread/INFO]: chat.type.admin
+[21:41:48] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Robert_Rum2 accepted server config.
+[21:41:57] [Server thread/INFO]: chat.type.text
+[21:42:30] [Server thread/INFO]: chat.type.text
+[21:45:20] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.cleric'/29030, l='ServerLevel[world]', x=-900.45, y=65.00, z=-688.19] died, message: 'death.attack.player'
+[21:47:01] [Server thread/INFO]: chat.type.text
+[21:47:11] [Server thread/INFO]: death.attack.mob
+[21:47:11] [Server thread/INFO]: chat.type.admin
+[21:47:12] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Robert_Rum2 accepted server config.
+[21:47:26] [Server thread/INFO]: chat.type.text
+[21:47:37] [Server thread/INFO]: chat.type.text
+[21:47:44] [Server thread/INFO]: chat.type.text
+[21:47:50] [Server thread/INFO]: chat.type.text
+[21:47:55] [Server thread/INFO]: chat.type.text
+[21:48:03] [Server thread/INFO]: chat.type.text
+[21:49:26] [Server thread/INFO]: chat.type.text
+[21:49:53] [Server thread/INFO]: chat.type.text
+[21:50:10] [Server thread/INFO]: chat.type.text
+[21:50:40] [Server thread/INFO]: chat.type.text
+[21:51:45] [Server thread/INFO]: chat.type.text
+[21:52:11] [Server thread/INFO]: chat.type.text
+[21:52:23] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-1135, y=80, z=-236} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[21:52:23] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location class_2338{x=-1135, y=80, z=-236}
+[21:52:42] [Server thread/INFO]: Robert_Rum2 was frozen by Ice Dragon
+[21:52:42] [Server thread/INFO]: chat.type.admin
+[21:52:43] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Robert_Rum2 accepted server config.
+[21:52:47] [Server thread/INFO]: chat.type.text
+[21:53:06] [Server thread/INFO]: chat.type.text
+[21:53:22] [Server thread/INFO]: chat.type.text
+[21:53:41] [Server thread/INFO]: chat.type.text
+[21:53:46] [Server thread/INFO]: chat.type.text
+[21:54:38] [Server thread/INFO]: commands.op.success
+[21:55:08] [Server thread/INFO]: commands.op.success
+[21:55:41] [Server thread/INFO]: argument.entity.selector.unknown
+[21:55:41] [Server thread/INFO]: op @Trubitecommand.context.here
+[21:55:54] [Server thread/INFO]: commands.op.success
+[21:55:54] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Trubite24 accepted server config.
+[21:56:09] [Server thread/INFO]: chat.type.text
+[21:56:24] [Server thread/INFO]: chat.type.admin
+[21:56:24] [Server thread/INFO]: minecraft:husk
+[21:56:32] [Server thread/INFO]: minecraft:glow_squid
+[21:57:16] [Server thread/INFO]: chat.type.text
+[21:57:36] [Server thread/INFO]: chat.type.text
+[21:59:12] [Server thread/INFO]: chat.type.text
+[21:59:19] [Server thread/INFO]: chat.type.text
+[21:59:49] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.leatherworker'/39409, l='ServerLevel[world]', x=-840.17, y=67.50, z=-721.26] died, message: 'death.attack.cactus'
