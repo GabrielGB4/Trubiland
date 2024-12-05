@@ -917,3 +917,51 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21:28:52] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location class_2338{x=-900, y=80, z=-250}
 [21:28:52] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-905, y=80, z=-250} but found not block entity block Block{minecraft:snow}[layers=1] at location
 [21:28:52] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location class_2338{x=-905, y=80, z=-250}
+[21:29:42] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-1045, y=67, z=-382} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[21:29:42] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location class_2338{x=-1045, y=67, z=-382}
+[21:29:42] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-1044, y=66, z=-384} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[21:29:42] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location class_2338{x=-1044, y=66, z=-384}
+[21:29:43] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-1049, y=66, z=-386} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[21:29:43] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location class_2338{x=-1049, y=66, z=-386}
+[21:29:43] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-1046, y=65, z=-387} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[21:29:43] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location class_2338{x=-1046, y=65, z=-387}
+[21:29:43] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-1046, y=66, z=-386} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[21:29:43] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location class_2338{x=-1046, y=66, z=-386}
+[21:29:43] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-1045, y=66, z=-386} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[21:29:43] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location class_2338{x=-1045, y=66, z=-386}
+[21:29:43] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-1045, y=66, z=-385} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[21:29:43] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location class_2338{x=-1045, y=66, z=-385}
+[21:29:43] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-1042, y=65, z=-385} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[21:29:43] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location class_2338{x=-1042, y=65, z=-385}
+[21:29:43] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-1047, y=64, z=-390} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[21:29:43] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location class_2338{x=-1047, y=64, z=-390}
+[21:29:43] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-1052, y=64, z=-387} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[21:29:43] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location class_2338{x=-1052, y=64, z=-387}
+[21:29:43] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-1043, y=65, z=-387} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[21:29:43] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location class_2338{x=-1043, y=65, z=-387}
+[21:33:50] [Server thread/INFO]: chat.type.text
+[21:33:55] [Server thread/INFO]: chat.type.text
+[21:34:00] [Server thread/INFO]: chat.type.text
+[21:35:01] [Server thread/INFO]: chat.type.text
+[21:35:06] [Server thread/INFO]: chat.type.text
+[21:35:33] [Server thread/INFO]: chat.type.text
+[21:35:59] [Server thread/INFO]: chat.type.text
+[21:36:12] [Server thread/INFO]: chat.type.text
+[21:36:22] [Server thread/INFO]: chat.type.text
+[21:37:44] [Server thread/INFO]: chat.type.text
+[21:37:49] [Server thread/INFO]: minecraft:sheep
+[21:38:09] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-697, y=-28, z=-1158}
+[21:38:09] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-699, y=-28, z=-1158}
+[21:38:09] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-701, y=-28, z=-1158}
+[21:38:09] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-697, y=-24, z=-1157}
+[21:38:09] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-699, y=-24, z=-1157}
+[21:38:09] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-701, y=-24, z=-1157}
+[21:38:09] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-689, y=-28, z=-1159}
+[21:38:09] [Worker-Main-8/WARN]: Tried to access a block entity before it was created. class_2338{x=-685, y=-29, z=-1163}
+[21:38:18] [Worker-Main-8/WARN]: Tried to access a block entity before it was created. class_2338{x=-722, y=-28, z=-1188}
+[21:38:25] [Server thread/INFO]: chat.type.text
+[21:38:27] [Server thread/INFO]: chat.type.text
+[21:38:39] [Server thread/INFO]: chat.type.text
+[21:38:50] [Server thread/INFO]: chat.type.text
+[21:39:19] [Server thread/INFO]: chat.type.text
+[21:39:39] [Server thread/INFO]: minecraft:glow_squid

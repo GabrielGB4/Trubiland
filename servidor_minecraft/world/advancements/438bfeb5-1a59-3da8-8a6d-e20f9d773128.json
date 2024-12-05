@@ -431,6 +431,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2024-12-05 21:30:20 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/spruce_shelf": {
     "criteria": {
       "has_planks": "2024-12-05 20:49:16 +0000"
@@ -440,6 +446,12 @@
   "another_furniture:recipes/acacia_drawer": {
     "criteria": {
       "has_planks": "2024-12-05 20:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-12-05 21:30:20 +0000"
     },
     "done": true
   },
@@ -614,6 +626,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2024-12-05 20:49:37 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/pumpkin_slab": {
+    "criteria": {
+      "has_pumpkin": "2024-12-05 21:30:20 +0000"
     },
     "done": true
   },
@@ -803,6 +821,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2024-12-05 21:28:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-05 20:49:28 +0000"
@@ -884,6 +908,12 @@
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2024-12-05 21:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-12-05 21:30:20 +0000"
     },
     "done": true
   },
