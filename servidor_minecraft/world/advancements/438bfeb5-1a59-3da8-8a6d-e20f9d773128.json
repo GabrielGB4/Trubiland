@@ -580,6 +580,12 @@
     },
     "done": true
   },
+  "exposure:recipes/tools/black_and_white_film": {
+    "criteria": {
+      "has_camera": "2024-12-05 22:59:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2024-12-05 20:44:36 +0000"
@@ -2073,6 +2079,12 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2024-12-05 21:49:01 +0000"
+    },
+    "done": true
+  },
+  "exposure:recipes/tools/color_film": {
+    "criteria": {
+      "has_camera": "2024-12-05 22:59:14 +0000"
     },
     "done": true
   },

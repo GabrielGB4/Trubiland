@@ -1066,3 +1066,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22:42:32] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.leatherworker'/39412, l='ServerLevel[world]', x=-862.70, y=66.00, z=-709.30] died, message: 'death.attack.mob'
 [22:46:01] [Server thread/INFO]: chat.type.text
 [22:46:24] [Server thread/INFO]: chat.type.text
+[22:53:17] [Server thread/INFO]: chat.type.text
+[22:54:53] [Server thread/INFO]: chat.type.text
+[22:56:30] [Server thread/INFO]: chat.type.text
+[22:58:16] [Server thread/INFO]: chat.type.text
+[22:58:49] [Server thread/INFO]: chat.type.text
