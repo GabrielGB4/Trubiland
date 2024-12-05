@@ -1055,3 +1055,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22:39:35] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/50588, l='ServerLevel[world]', x=-965.92, y=-256.00, z=-694.24] died, message: 'death.attack.genericKill'
 [22:40:21] [Server thread/INFO]: chat.type.text
 [22:40:32] [Server thread/INFO]: chat.type.text
+[22:40:49] [Server thread/INFO]: chat.type.text
+[22:40:55] [Server thread/INFO]: chat.type.text
+[22:41:21] [Server thread/INFO]: chat.type.text
+[22:41:42] [Server thread/INFO]: chat.type.text
+[22:42:04] [Server thread/INFO]: chat.type.text
+[22:42:07] [Server thread/INFO]: chat.type.text
+[22:42:12] [Server thread/INFO]: chat.type.text
+[22:42:29] [Server thread/INFO]: chat.type.text
+[22:42:32] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.leatherworker'/39412, l='ServerLevel[world]', x=-862.70, y=66.00, z=-709.30] died, message: 'death.attack.mob'
+[22:46:01] [Server thread/INFO]: chat.type.text
+[22:46:24] [Server thread/INFO]: chat.type.text
