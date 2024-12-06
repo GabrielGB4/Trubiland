@@ -922,3 +922,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23:15:03] [Server thread/INFO]: chat.type.text
 [23:17:31] [Server thread/INFO]: chat.type.text
 [23:17:41] [Server thread/INFO]: chat.type.text
+[23:18:04] [Server thread/INFO]: chat.type.text
+[23:19:08] [Server thread/INFO]: chat.type.text
+[23:19:14] [Server thread/INFO]: chat.type.text
+[23:23:53] [Server thread/INFO]: chat.type.text
+[23:24:28] [Server thread/INFO]: minecraft:spider
+[23:27:02] [Server thread/INFO]: minecraft:glow_squid
