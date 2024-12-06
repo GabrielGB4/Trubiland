@@ -896,3 +896,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22:26:55] [Server thread/INFO]: death.attack.explosion.player
 [22:26:55] [Server thread/INFO]: chat.type.admin
 [22:26:57] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Trubite24 accepted server config.
+[22:29:59] [Server thread/INFO]: minecraft:glow_squid

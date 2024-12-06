@@ -2124,6 +2124,12 @@
     },
     "done": true
   },
+  "1_splatus:ultris/illusioner": {
+    "criteria": {
+      "c1": "2024-12-06 22:31:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2024-12-06 21:52:02 +0000"
@@ -2139,6 +2145,24 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2024-12-06 22:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-06 22:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-06 22:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2024-12-06 22:26:14 +0000"
     },
     "done": true
   },
@@ -2169,6 +2193,18 @@
   "immersive_melodies:misc/instruments": {
     "criteria": {
       "has_item": "2024-12-06 21:52:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-12-06 22:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2024-12-06 22:27:01 +0000"
     },
     "done": true
   },
@@ -2235,6 +2271,12 @@
   "morebows:recipes/diamond_bow": {
     "criteria": {
       "has_bow": "2024-12-06 22:18:43 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/stripped_spruce_log_slab": {
+    "criteria": {
+      "has_stripped_spruce_log": "2024-12-06 22:25:59 +0000"
     },
     "done": true
   },
