@@ -910,3 +910,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22:47:31] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Robert_Rum2 accepted server config.
 [22:59:16] [Server thread/INFO]: minecraft:husk
 [23:06:20] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/23418, l='ServerLevel[world]', x=-965.80, y=-256.00, z=-696.64] died, message: 'death.attack.genericKill'
+[23:08:20] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/23788, l='ServerLevel[world]', x=-965.92, y=-256.00, z=-694.24] died, message: 'death.attack.genericKill'
+[23:08:51] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/23912, l='ServerLevel[world]', x=-905.13, y=-256.00, z=-688.35] died, message: 'death.attack.genericKill'
+[23:09:08] [Server thread/INFO]: chat.type.advancement.task
+[23:12:03] [Server thread/INFO]: chat.type.text
+[23:12:14] [Server thread/INFO]: chat.type.text
+[23:12:21] [Server thread/INFO]: chat.type.text
+[23:12:25] [Server thread/INFO]: chat.type.text
+[23:12:36] [Server thread/INFO]: chat.type.text
+[23:13:40] [Server thread/INFO]: chat.type.text
+[23:15:03] [Server thread/INFO]: chat.type.text
+[23:17:31] [Server thread/INFO]: chat.type.text
+[23:17:41] [Server thread/INFO]: chat.type.text

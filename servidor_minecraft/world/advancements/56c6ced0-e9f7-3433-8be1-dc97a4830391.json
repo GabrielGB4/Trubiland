@@ -662,6 +662,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2024-12-06 23:14:22 +0000",
       "bread": "2024-12-05 20:45:38 +0000"
     },
     "done": false
@@ -2079,6 +2080,12 @@
   "beansbackpacks:info/fluid_cauldrons": {
     "criteria": {
       "filled_bucket": "2024-12-06 22:38:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-06 23:09:08 +0000"
     },
     "done": true
   },
