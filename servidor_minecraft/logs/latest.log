@@ -928,3 +928,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23:23:53] [Server thread/INFO]: chat.type.text
 [23:24:28] [Server thread/INFO]: minecraft:spider
 [23:27:02] [Server thread/INFO]: minecraft:glow_squid
+[23:33:14] [Server thread/INFO]: chat.type.text
+[23:33:33] [Server thread/INFO]: chat.type.text
+[23:36:31] [Server thread/INFO]: Robert_Rum2 lost connection: disconnect.timeout
+[23:36:31] [Server thread/INFO]: multiplayer.player.left
+[23:36:31] [Server thread/INFO]: [voicechat] Disconnecting client Robert_Rum2
