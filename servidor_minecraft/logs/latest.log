@@ -853,3 +853,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21:40:53] [Server thread/INFO]: chat.type.advancement.task
 [21:41:23] [Server thread/INFO]: chat.type.text
 [21:42:29] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.cleric'/298, l='ServerLevel[world]', x=-813.76, y=67.50, z=-713.07] died, message: 'death.attack.cactus'
+[21:51:55] [Server thread/INFO]: minecraft:husk
+[21:53:10] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/5863, l='ServerLevel[world]', x=-905.13, y=-256.00, z=-688.35] died, message: 'death.attack.genericKill'
+[21:54:57] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/6014, l='ServerLevel[world]', x=-904.50, y=69.00, z=-689.50] died, message: 'death.attack.genericKill'
+[21:56:07] [Server thread/INFO]: chat.type.text
+[21:56:27] [Server thread/INFO]: minecraft:skeleton
