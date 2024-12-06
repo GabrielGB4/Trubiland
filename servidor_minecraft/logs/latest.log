@@ -897,3 +897,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22:26:55] [Server thread/INFO]: chat.type.admin
 [22:26:57] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Trubite24 accepted server config.
 [22:29:59] [Server thread/INFO]: minecraft:glow_squid
+[22:38:10] [Server thread/INFO]: minecraft:husk
+[22:47:13] [Server thread/INFO]: Robert_Rum2 lost connection: disconnect.timeout
+[22:47:13] [Server thread/INFO]: multiplayer.player.left
+[22:47:13] [Server thread/INFO]: [voicechat] Disconnecting client Robert_Rum2
+[22:47:30] [Server thread/INFO]: Robert_Rum2[/[0:0:0:0:0:0:0:1%0]:33358] logged in with entity id 18719 at (-908.0265233659766, 62.0, -691.1136598919002)
+[22:47:30] [Server thread/INFO]: Loading config from file...
+[22:47:30] [Server thread/INFO]: Syncing beansbackpacks data to "Robert_Rum2"
+[22:47:30] [Server thread/INFO]: multiplayer.player.joined
+[22:47:31] [Server thread/INFO]: [voicechat] Received secret request of Robert_Rum2 (18)
+[22:47:31] [Server thread/INFO]: [voicechat] Sent secret to Robert_Rum2
+[22:47:31] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Robert_Rum2 accepted server config.

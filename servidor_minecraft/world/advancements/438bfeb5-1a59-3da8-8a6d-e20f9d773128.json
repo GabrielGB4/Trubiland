@@ -2196,6 +2196,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-06 22:38:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2024-12-06 22:26:13 +0000"
@@ -2217,6 +2223,12 @@
   "new_slab_variants:recipes/building_blocks/dripstone_block_slab": {
     "criteria": {
       "has_dripstone_block": "2024-12-06 22:09:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-06 22:39:42 +0000"
     },
     "done": true
   },
@@ -2277,6 +2289,12 @@
   "new_slab_variants:recipes/building_blocks/stripped_spruce_log_slab": {
     "criteria": {
       "has_stripped_spruce_log": "2024-12-06 22:25:59 +0000"
+    },
+    "done": true
+  },
+  "beansbackpacks:info/fluid_cauldrons": {
+    "criteria": {
+      "has_the_recipe": "2024-12-06 22:38:06 +0000"
     },
     "done": true
   },
