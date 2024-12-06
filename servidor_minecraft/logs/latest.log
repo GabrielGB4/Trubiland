@@ -850,3 +850,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21:31:33] [Server thread/INFO]: chat.type.advancement.task
 [21:31:54] [Server thread/INFO]: minecraft:husk
 [21:35:51] [Server thread/INFO]: chat.type.advancement.task
+[21:40:53] [Server thread/INFO]: chat.type.advancement.task
+[21:41:23] [Server thread/INFO]: chat.type.text
+[21:42:29] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.cleric'/298, l='ServerLevel[world]', x=-813.76, y=67.50, z=-713.07] died, message: 'death.attack.cactus'
