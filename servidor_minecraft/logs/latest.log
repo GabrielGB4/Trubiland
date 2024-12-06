@@ -869,3 +869,30 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22:05:52] [Server thread/INFO]: minecraft:glow_squid
 [22:06:17] [Server thread/INFO]: minecraft:bat
 [22:07:06] [Server thread/INFO]: chat.type.text
+[22:08:35] [Server thread/INFO]: A large Graveyard horde of undead appeared at -1058 76 -754.
+[22:09:52] [Server thread/INFO]: death.attack.mob
+[22:09:52] [Server thread/INFO]: chat.type.admin
+[22:09:53] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Trubite24 accepted server config.
+[22:10:11] [Server thread/INFO]: chat.type.text
+[22:12:04] [Server thread/INFO]: minecraft:zombie
+[22:12:15] [Server thread/INFO]: death.attack.arrow
+[22:12:15] [Server thread/INFO]: chat.type.admin
+[22:12:17] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Trubite24 accepted server config.
+[22:14:26] [Server thread/INFO]: death.attack.arrow
+[22:14:26] [Server thread/INFO]: chat.type.admin
+[22:14:28] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Trubite24 accepted server config.
+[22:16:12] [Server thread/INFO]: death.attack.arrow
+[22:16:12] [Server thread/INFO]: chat.type.admin
+[22:16:14] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Trubite24 accepted server config.
+[22:16:29] [Server thread/INFO]: minecraft:skeleton
+[22:17:07] [Server thread/INFO]: death.attack.arrow
+[22:17:07] [Server thread/INFO]: chat.type.admin
+[22:17:11] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Trubite24 accepted server config.
+[22:23:14] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/13626, l='ServerLevel[world]', x=-904.50, y=69.00, z=-689.50] died, message: 'death.attack.genericKill'
+[22:25:43] [Server thread/INFO]: death.attack.explosion.player
+[22:25:43] [Server thread/INFO]: chat.type.admin
+[22:25:44] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Trubite24 accepted server config.
+[22:26:27] [Server thread/INFO]: minecraft:zombie
+[22:26:55] [Server thread/INFO]: death.attack.explosion.player
+[22:26:55] [Server thread/INFO]: chat.type.admin
+[22:26:57] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Trubite24 accepted server config.
