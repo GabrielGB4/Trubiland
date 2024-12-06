@@ -858,3 +858,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21:54:57] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/6014, l='ServerLevel[world]', x=-904.50, y=69.00, z=-689.50] died, message: 'death.attack.genericKill'
 [21:56:07] [Server thread/INFO]: chat.type.text
 [21:56:27] [Server thread/INFO]: minecraft:skeleton
+[22:00:01] [Server thread/INFO]: death.fell.accident.generic
+[22:00:01] [Server thread/INFO]: chat.type.admin
+[22:00:03] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Trubite24 accepted server config.
+[22:00:30] [Server thread/INFO]: chat.type.advancement.task
+[22:03:41] [Server thread/INFO]: death.attack.explosion.player
+[22:03:41] [Server thread/INFO]: chat.type.admin
+[22:03:46] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Trubite24 accepted server config.
+[22:03:59] [Server thread/INFO]: minecraft:skeleton
+[22:05:52] [Server thread/INFO]: minecraft:glow_squid
+[22:06:17] [Server thread/INFO]: minecraft:bat
+[22:07:06] [Server thread/INFO]: chat.type.text
