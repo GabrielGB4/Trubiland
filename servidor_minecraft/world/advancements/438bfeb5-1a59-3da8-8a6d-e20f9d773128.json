@@ -556,7 +556,8 @@
     "criteria": {
       "apple": "2024-12-05 22:26:20 +0000",
       "potato": "2024-12-05 21:05:51 +0000",
-      "bread": "2024-12-05 20:46:33 +0000"
+      "bread": "2024-12-05 20:46:33 +0000",
+      "carrot": "2024-12-08 19:24:56 +0000"
     },
     "done": false
   },
@@ -2551,77 +2552,83 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/redstone/birch_button": {
     "criteria": {
-      "log_spam_fixer": "2024-12-08 18:56:28 +0000"
+      "has_planks": "2024-12-08 19:22:44 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/redstone/birch_door": {
     "criteria": {
-      "log_spam_fixer": "2024-12-08 18:56:28 +0000"
+      "has_planks": "2024-12-08 19:22:44 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
-      "log_spam_fixer": "2024-12-08 18:56:28 +0000"
+      "has_planks": "2024-12-08 19:22:44 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
-      "log_spam_fixer": "2024-12-08 18:56:28 +0000"
+      "has_planks": "2024-12-08 19:22:44 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
-      "log_spam_fixer": "2024-12-08 18:56:28 +0000"
+      "has_planks": "2024-12-08 19:22:44 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
-      "log_spam_fixer": "2024-12-08 18:56:28 +0000"
+      "has_planks": "2024-12-08 19:22:44 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
-      "log_spam_fixer": "2024-12-08 18:56:28 +0000"
+      "has_planks": "2024-12-08 19:22:44 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "graveyard:graveyard/corruption": {
     "criteria": {
-      "log_spam_fixer": "2024-12-08 18:56:28 +0000"
+      "corruption": "2024-12-08 19:22:45 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "another_furniture:recipes/birch_chair": {
     "criteria": {
-      "log_spam_fixer": "2024-12-08 18:56:28 +0000"
+      "has_planks": "2024-12-08 19:22:44 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
-      "log_spam_fixer": "2024-12-08 18:56:28 +0000"
+      "has_planks": "2024-12-08 19:22:44 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "another_furniture:recipes/birch_shelf": {
     "criteria": {
-      "log_spam_fixer": "2024-12-08 18:56:28 +0000"
+      "has_planks": "2024-12-08 19:22:44 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
-      "log_spam_fixer": "2024-12-08 18:56:28 +0000"
+      "has_planks": "2024-12-08 19:22:44 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "another_furniture:recipes/birch_table": {
+    "criteria": {
+      "has_planks": "2024-12-08 19:22:44 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
