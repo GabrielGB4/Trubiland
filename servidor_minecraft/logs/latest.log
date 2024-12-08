@@ -1009,3 +1009,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21:16:21] [Server thread/INFO]: chat.type.text
 [21:16:52] [Server thread/INFO]: minecraft:glow_squid
 [21:18:03] [Server thread/INFO]: minecraft:bat
+[21:24:01] [Server thread/INFO]: chat.type.text
+[21:25:43] [Server thread/INFO]: Robert_Rum2 lost connection: disconnect.timeout
+[21:25:43] [Server thread/INFO]: multiplayer.player.left
+[21:25:43] [Server thread/INFO]: [voicechat] Disconnecting client Robert_Rum2
