@@ -890,3 +890,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19:37:11] [Server thread/INFO]: minecraft:husk
 [19:38:48] [Server thread/INFO]: minecraft:skeleton
 [19:40:52] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/10941, l='ServerLevel[world]', x=-965.80, y=-256.00, z=-696.64] died, message: 'death.attack.genericKill'
+[19:41:27] [Server thread/INFO]: death.attack.explosion.player
+[19:41:27] [Server thread/INFO]: chat.type.admin
+[19:41:30] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Trubite24 accepted server config.
+[19:45:34] [Server thread/INFO]: minecraft:glow_squid
+[19:48:27] [Server thread/INFO]: chat.type.advancement.task
+[19:50:46] [Server thread/INFO]: minecraft:glow_squid
