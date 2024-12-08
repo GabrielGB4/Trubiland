@@ -989,3 +989,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21:01:29] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [21:01:32] [Server thread/INFO]: chat.type.advancement.task
 [21:02:11] [Server thread/INFO]: chat.type.advancement.task
+[21:06:00] [Server thread/INFO]: minecraft:husk
+[21:08:11] [Server thread/INFO]: chat.type.advancement.task
+[21:11:05] [Server thread/INFO]: chat.type.advancement.task
+[21:12:02] [Server thread/INFO]: death.attack.mob
+[21:12:02] [Server thread/INFO]: Created new backpack backup file for Robert_Rum2 with unique ID travelersbackpack.standard_08.12.2024-21.12.02.dat
+[21:12:02] [Server thread/INFO]: Your backpack has been placed at X: -547 Y: 85 Z: -959
+[21:12:02] [Server thread/INFO]: chat.type.admin
+[21:12:04] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Robert_Rum2 accepted server config.
+[21:12:12] [Server thread/INFO]: chat.type.text
