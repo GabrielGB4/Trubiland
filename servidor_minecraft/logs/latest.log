@@ -1013,3 +1013,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21:25:43] [Server thread/INFO]: Robert_Rum2 lost connection: disconnect.timeout
 [21:25:43] [Server thread/INFO]: multiplayer.player.left
 [21:25:43] [Server thread/INFO]: [voicechat] Disconnecting client Robert_Rum2
+[21:36:22] [Server thread/INFO]: matias[/[0:0:0:0:0:0:0:1%0]:60108] logged in with entity id 48986 at (-1.5, 68.0, -6.5)
+[21:36:22] [Server thread/INFO]: Loading config from file...
+[21:36:22] [Server thread/INFO]: Syncing beansbackpacks data to "matias"
+[21:36:22] [Server thread/INFO]: multiplayer.player.joined
+[21:36:22] [Server thread/INFO]: chat.type.advancement.task
+[21:36:24] [Server thread/INFO]: [voicechat] Received secret request of matias (18)
+[21:36:24] [Server thread/INFO]: [voicechat] Sent secret to matias
+[21:36:24] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of matias accepted server config.
+[21:38:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@6b455baa[id=<null>,name=matias,properties={},legacy=false] (/[0:0:0:0:0:0:0:1%0]:38304) lost connection: disconnect.timeout
+[21:41:05] [Server thread/INFO]: chat.type.admin
+[21:41:51] [Server thread/INFO]: chat.type.advancement.task
+[21:41:58] [Server thread/INFO]: chat.type.advancement.task
+[21:42:10] [Server thread/INFO]: minecraft:glow_squid
+[21:42:55] [Server thread/INFO]: minecraft:husk
+[21:42:57] [Server thread/INFO]: minecraft:bat
