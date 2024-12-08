@@ -964,3 +964,28 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20:48:27] [Server thread/INFO]: Robert_Rum2 lost connection: disconnect.timeout
 [20:48:27] [Server thread/INFO]: multiplayer.player.left
 [20:48:27] [Server thread/INFO]: [voicechat] Disconnecting client Robert_Rum2
+[20:53:15] [Server thread/INFO]: minecraft:cow
+[20:53:50] [Server thread/INFO]: minecraft:glow_squid
+[20:55:01] [Server thread/INFO]: death.attack.mob
+[20:55:01] [Server thread/INFO]: Created new backpack backup file for Trubite24 with unique ID travelersbackpack.standard_08.12.2024-20.55.01.dat
+[20:55:01] [Server thread/INFO]: Your backpack has been placed at X: -544 Y: 86 Z: -945
+[20:55:01] [Server thread/INFO]: chat.type.admin
+[20:55:02] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Trubite24 accepted server config.
+[20:55:40] [Server thread/WARN]: Trubite24 moved too quickly! 6.767898998469036,-2.301534723662783,-7.385598096868762
+[20:58:46] [Server thread/INFO]: death.attack.mob
+[20:58:46] [Server thread/INFO]: Created new backpack backup file for Trubite24 with unique ID travelersbackpack.standard_08.12.2024-20.58.46.dat
+[20:58:46] [Server thread/INFO]: Your backpack has been placed at X: -541 Y: 91 Z: -933
+[20:58:46] [Server thread/INFO]: chat.type.admin
+[20:58:49] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Trubite24 accepted server config.
+[20:59:28] [Server thread/INFO]: minecraft:bat
+[20:59:42] [Server thread/INFO]: Robert_Rum2[/[0:0:0:0:0:0:0:1%0]:44152] logged in with entity id 33553 at (-905.4300023571221, 64.0, -687.6667080007308)
+[20:59:42] [Server thread/INFO]: Loading config from file...
+[20:59:42] [Server thread/INFO]: Syncing beansbackpacks data to "Robert_Rum2"
+[20:59:42] [Server thread/INFO]: multiplayer.player.joined
+[20:59:44] [Server thread/INFO]: [voicechat] Received secret request of Robert_Rum2 (18)
+[20:59:44] [Server thread/INFO]: [voicechat] Sent secret to Robert_Rum2
+[20:59:44] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Robert_Rum2 accepted server config.
+[20:59:56] [Server thread/INFO]: chat.type.text
+[21:01:29] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:01:32] [Server thread/INFO]: chat.type.advancement.task
+[21:02:11] [Server thread/INFO]: chat.type.advancement.task
