@@ -955,3 +955,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20:25:17] [Server thread/INFO]: multiplayer.player.left
 [20:25:17] [Server thread/INFO]: [voicechat] Disconnecting client matiatix
 [20:40:10] [Server thread/INFO]: chat.type.advancement.task
+[20:44:32] [Server thread/INFO]: chat.type.advancement.task
+[20:46:50] [Server thread/INFO]: chat.type.text
+[20:46:53] [Server thread/INFO]: chat.type.text
+[20:47:01] [Server thread/INFO]: chat.type.text
+[20:47:05] [Server thread/INFO]: chat.type.text
+[20:47:09] [Server thread/INFO]: chat.type.text
+[20:48:27] [Server thread/INFO]: Robert_Rum2 lost connection: disconnect.timeout
+[20:48:27] [Server thread/INFO]: multiplayer.player.left
+[20:48:27] [Server thread/INFO]: [voicechat] Disconnecting client Robert_Rum2
