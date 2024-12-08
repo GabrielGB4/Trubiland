@@ -862,3 +862,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18:57:24] [Server thread/INFO]: [voicechat] Received secret request of Trubite24 (18)
 [18:57:24] [Server thread/INFO]: [voicechat] Sent secret to Trubite24
 [18:57:24] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Trubite24 accepted server config.
+[19:02:12] [Server thread/INFO]: chat.type.text
+[19:09:23] [Server thread/INFO]: Robert_Rum2 lost connection: disconnect.timeout
+[19:09:23] [Server thread/INFO]: multiplayer.player.left
+[19:09:23] [Server thread/INFO]: [voicechat] Disconnecting client Robert_Rum2
