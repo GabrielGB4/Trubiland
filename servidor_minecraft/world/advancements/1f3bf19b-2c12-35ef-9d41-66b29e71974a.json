@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "1_splatus:ultris/illusioner": {
+    "criteria": {
+      "c1": "2024-12-08 22:09:46 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/food/cooked_egg": {
     "criteria": {
       "has_eggs": "2024-12-08 21:41:02 +0000"
@@ -230,6 +236,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-08 21:56:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-08 22:01:53 +0000"
     },
     "done": true
   },
@@ -674,6 +686,12 @@
   "another_furniture:recipes/jungle_drawer": {
     "criteria": {
       "has_planks": "2024-12-08 21:56:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2024-12-08 22:01:53 +0000"
     },
     "done": true
   },

@@ -1033,3 +1033,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21:54:45] [Server thread/INFO]: minecraft:husk
 [21:56:44] [Server thread/INFO]: chat.type.advancement.task
 [21:58:17] [Server thread/INFO]: chat.type.advancement.task
+[22:07:29] [Server thread/INFO]: minecraft:husk
+[22:11:10] [Server thread/INFO]: minecraft:glow_squid
