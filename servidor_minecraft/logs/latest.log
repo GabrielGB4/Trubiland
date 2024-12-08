@@ -1030,3 +1030,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21:42:57] [Server thread/INFO]: minecraft:bat
 [21:48:26] [Server thread/INFO]: chat.type.advancement.task
 [21:49:19] [Server thread/INFO]: minecraft:squid
+[21:54:45] [Server thread/INFO]: minecraft:husk
+[21:56:44] [Server thread/INFO]: chat.type.advancement.task
+[21:58:17] [Server thread/INFO]: chat.type.advancement.task
