@@ -954,3 +954,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20:25:17] [Server thread/INFO]: matiatix lost connection: disconnect.timeout
 [20:25:17] [Server thread/INFO]: multiplayer.player.left
 [20:25:17] [Server thread/INFO]: [voicechat] Disconnecting client matiatix
+[20:40:10] [Server thread/INFO]: chat.type.advancement.task
