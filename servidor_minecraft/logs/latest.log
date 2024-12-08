@@ -1035,3 +1035,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21:58:17] [Server thread/INFO]: chat.type.advancement.task
 [22:07:29] [Server thread/INFO]: minecraft:husk
 [22:11:10] [Server thread/INFO]: minecraft:glow_squid
+[22:13:50] [Server thread/INFO]: death.attack.player
+[22:13:50] [Server thread/INFO]: Created new backpack backup file for Trubite24 with unique ID travelersbackpack.standard_08.12.2024-22.13.50.dat
+[22:13:50] [Server thread/INFO]: Your backpack has been placed at X: -915 Y: 63 Z: -688
+[22:13:50] [Server thread/INFO]: chat.type.admin
+[22:13:52] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Trubite24 accepted server config.
+[22:14:59] [Server thread/INFO]: minecraft:glow_squid
+[22:18:43] [Server thread/INFO]: death.fell.accident.generic
+[22:18:43] [Server thread/INFO]: chat.type.admin
+[22:18:52] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of matias accepted server config.
