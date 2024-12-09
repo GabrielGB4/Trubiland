@@ -1,4 +1,4 @@
-Photographs = {}
+Misc = {}
 
 [Camera]
 	#Default focal range of the camera (without a lens attached).
@@ -33,3 +33,8 @@ Photographs = {}
 	#Amount of experience awarded per printed chromatic Photograph (when all three channels have been printed). Set to 0 to disable. Default: 5
 	#Range: 0 ~ 99
 	ExperiencePerPrintChromatic = 5
+[Photographs]
+	#How many photographs can be stacked in Stacked Photographs item. Default: 16.
+	#Larger numbers may cause errors. Use at your own risk.
+	#Range: 2 ~ 64
+	StackedPhotographsMaxSize = 16
